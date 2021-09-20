@@ -1,4 +1,4 @@
-<p>In both project implementations I wrote a class that contained a K-Means Algorithm, data visualization, centroid coordinate table visualization methods among some other functionality. </p>
+<p>In both project implementations I wrote a class that contained a K-Means Algorithm, data visualization, and centroid coordinate table visualization methods among some other helper methods. </p>
 <p>Strategy 1 used random k data points as it's centroid, then runs the K-Means Algorithm on the data and centroids</p>
 <p>Strategy 2 implementation used a random initial data point as a centroids, then calculates the remaining k-1 centroids by maximizing distance to all remaining data points, then runs the K-Means Algorithm on the data and centroids</p>
 <h2>K-Means Output</h2>
