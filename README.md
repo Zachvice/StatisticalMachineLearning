@@ -1,8 +1,7 @@
 # Statistical Machine Learning
 1. [NaiveBayesClassifier](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [K-MeansClustering](#paragraph1)
+
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
