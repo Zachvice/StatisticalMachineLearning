@@ -1,5 +1,5 @@
 # Statistical Machine Learning
-1. [NaiveBayesClassifier](#introduction)
+1. [NaiveBayesClassifier](/Project)
 2. [K-MeansClustering](#paragraph1)
 
 
